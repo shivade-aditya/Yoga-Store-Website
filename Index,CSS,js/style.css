@@ -134,7 +134,7 @@ body{
 }
 
 .hero {
-    background-image:linear-gradient( rgba(0,0,0,0.3), rgba(0,0,0,.3) ), url("background.png");
+    background-image:linear-gradient( rgba(0,0,0,0.3), rgba(0,0,0,.3) ), url("../images/background.png");
     height: 50vh;
     width: 100%;
     background-position: top 25% right 0;
@@ -309,7 +309,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("Buy-Consecrated-Rudraksha-Mala.avif");
+    background-image: url("../images/Buy-Consecrated-Rudraksha-Mala.png");
     width: 100%;
     height: 50vh;
     background-size: cover;
@@ -359,7 +359,7 @@ h1.category {
     justify-content: center;
     align-items: center;
     color: #cce7d0;
-    background-image: url("SBC-Bloom.avif");
+    background-image: url("../images/SBC-Bloom.png");
     width: 250px;
     height: 50vh;
     background-size: cover;
@@ -372,15 +372,15 @@ h1.category {
 }
 
 #sm-banner .banner1{
-    background-image: url("Clothing-New.avif");
+    background-image: url("../images/Clothing-New.png");
 }
 
 #sm-banner .banner2{
-    background-image: url("Natural-Foods-New.avif");
+    background-image: url("../images/Natural-Foods-New.png");
 }
 
 #sm-banner .banner3{
-    background-image: url("Medi-New.avif");
+    background-image: url("../images/book.png");
 }
 
 .banner-box{
@@ -403,7 +403,7 @@ h1.category {
 }
 
 #newsletter {
-    background-image: url("emailbg.jpg");
+    background-image: url("../images/emailbg.jpg");
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
